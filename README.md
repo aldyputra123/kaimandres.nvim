@@ -7,13 +7,13 @@
     </a>
   </p>
   <p>
-    <img width="1728" height="1084" alt="Screenshot of Neovim Dashboard" src="https://github.com/user-attachments/assets/56fbf4c8-21eb-4a8c-a3ec-1707ff34d87f" />
+    <img width="1728" height="1084" alt="Screenshot of Fastfetch - Superfile - Neovim Dashboard" src="https://github.com/user-attachments/assets/3103862e-d9c6-4a01-9cf7-4778aa652782" />
   </p>
   <p>
     <img width="1728" height="1084" alt="Screenshot of Java, C++, and Python Code" src="https://github.com/user-attachments/assets/a24eee1a-dc92-440b-a2c1-ac157baa6b05" />
   </p>
   <p>
-    <strong>A robust, high-contrast, semantic crossover between Poimandres and Kanagawa  aesthetics for Neovim.</strong>
+    <strong>A robust, high-contrast, semantic theme; as a crossover between Poimandres and Kanagawa  aesthetics.</strong>
   </p>
 </div>
 
@@ -55,7 +55,7 @@ return {
 
 ## Configuration
 
-Because this theme is built on the Kanagawa engine, it supports a wide range of customizations.
+Because Kaimandres is based on the Kanagawa engine, it supports a wide range of customizations.
 
 ```lua
 require('kaimandres').setup({
