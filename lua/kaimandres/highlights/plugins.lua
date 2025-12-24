@@ -442,6 +442,32 @@ function M.setup(colors, config)
     NeotestTest = { fg = theme.ui.float.fg },
     NeotestUnknown = { fg = theme.syn.deprecated },
     NeotestWatching = { fg = theme.vcs.changed },
+
+    -- Noice.nvim
+    NoiceCmdline = { fg = theme.ui.fg, bg = theme.ui.bg },
+    NoiceCmdlinePopup = { fg = theme.ui.fg, bg = theme.ui.bg },
+    NoiceCmdlinePopupBorder = { fg = theme.syn.fun, bg = theme.ui.bg },
+    NoiceCmdlinePopupBorderCmdline = { fg = theme.syn.fun, bg = theme.ui.bg },
+    NoiceCmdlinePopupBorderSearch = { fg = theme.diag.warning, bg = theme.ui.bg },
+    NoiceCmdlinePopupBorderFilter = { fg = theme.syn.special1, bg = theme.ui.bg },
+    NoiceCmdlinePopupBorderHelp = { fg = theme.syn.fun, bg = theme.ui.bg },
+    NoiceCmdlinePopupBorderIncRename = { fg = theme.syn.property, bg = theme.ui.bg },
+    NoiceCmdlinePopupBorderInput = { fg = theme.syn.fun, bg = theme.ui.bg },
+    NoiceCmdlinePopupBorderLua = { fg = theme.syn.keyword, bg = theme.ui.bg },
+
+    NoiceCmdlineIcon = { fg = theme.syn.fun, bg = theme.ui.bg },
+    NoiceCmdlineIconCmdline = { fg = theme.syn.fun, bg = theme.ui.bg },
+    NoiceCmdlineIconSearch = { fg = theme.diag.warning, bg = theme.ui.bg },
+    NoiceCmdlineIconFilter = { fg = theme.syn.special1, bg = theme.ui.bg },
+    NoiceCmdlineIconHelp = { fg = theme.syn.fun, bg = theme.ui.bg },
+    NoiceCmdlineIconIncRename = { fg = theme.syn.property, bg = theme.ui.bg },
+    NoiceCmdlineIconInput = { fg = theme.syn.fun, bg = theme.ui.bg },
+    NoiceCmdlineIconLua = { fg = theme.syn.keyword, bg = theme.ui.bg },
+
+    NoicePopup = { fg = theme.ui.fg, bg = theme.ui.bg },
+    NoicePopupBorder = { fg = theme.syn.fun, bg = theme.ui.bg },
+    NoiceConfirm = { link = "NoicePopup" },
+    NoiceConfirmBorder = { link = "NoicePopupBorder" },
   }
 end
 
