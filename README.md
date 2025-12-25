@@ -125,9 +125,11 @@ require('lualine').setup {
 
 ---
 
-## The VS Code Port
+## Other Ports
 
 If you don't feel like Neovim is for you but love this aesthetic, I've got your back! Go here: **[kaimandres-vscode](https://github.com/MartelleV/kaimandres-vscode)** to see the source code for the official [VS Code port](https://code.visualstudio.com/), or you can install right away via Marketplace: **[Kaimandres VS Code Theme](https://marketplace.visualstudio.com/items?itemName=martellev.kaimandres-vscode)**.
+
+If you are a Zed user, go here: **[Kaimandres Zed Theme](https://zed-themes.com/themes/-NvUnJul7Bvewn1wS29Ff?name=Kaimandres)** and download the theme's JSON file, then put it inside your `~/.config/zed/themes` directory.
 
 ---
 
