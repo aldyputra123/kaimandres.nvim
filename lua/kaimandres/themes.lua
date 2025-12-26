@@ -64,7 +64,7 @@ function M.generate(palette)
       },
       float = {
         fg = palette.white,
-        bg = palette.voidBlack,
+        bg = palette.deepBlack,
         fg_border = palette.stoneGray,
         bg_border = palette.voidBlack,
       },
