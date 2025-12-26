@@ -19,6 +19,10 @@
   <img src="https://github.com/user-attachments/assets/a24eee1a-dc92-440b-a2c1-ac157baa6b05" width="100%" alt="Screenshot of Java, C++, and Python Code" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2b57eea3-e007-4ca0-aa8a-4230f6d65308" width="100%" alt="Screenshot of TypeScript code and Snacks Picker File Explorer" />
+</p>
+
 </div>
 
 ---
