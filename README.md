@@ -52,8 +52,8 @@ return {
     vim.api.nvim_create_autocmd("ColorScheme", {
       pattern = "kaimandres",
       callback = function()
-        vim.api.nvim_set_hl(0, "LineNr", { bg = "none" }) -- Remove backgrounds of line numbers and worktree indents
-        vim.api.nvim_set_hl(0, "StatusLine", { bg = "#16161e" }) -- Remove annoying blocks in Lualine (if this happens to you)
+        -- Remove annoying darker blocks in Lualine (if this happens to you)
+        vim.api.nvim_set_hl(0, "StatusLine", { bg = "#16161e" })
       end,
     })
   end,
