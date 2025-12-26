@@ -468,6 +468,9 @@ function M.setup(colors, config)
     NoicePopupBorder = { fg = theme.syn.fun, bg = theme.ui.bg },
     NoiceConfirm = { link = "NoicePopup" },
     NoiceConfirmBorder = { link = "NoicePopupBorder" },
+
+    -- Snacks
+    SnacksPicker = { fg = theme.ui.fg, bg = theme.ui.bg_dim },
   }
 end
 
